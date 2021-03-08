@@ -1,0 +1,29 @@
+body{
+  background-color: url("people.jpg");
+}
+#subcribeform{
+  width:500px;
+  position: fixed;
+}
+.panel{
+  margin: auto;
+  margin-bottom: 10px;
+  width:1000px;
+}
+h1{
+font-family: 'Montserrat', sans-serif;
+}
+h4,a{
+  font-family: 'Cabin', sans-serif;
+  color:MediumBlue;
+  font-size: 20px;
+}
+p{
+  font-family: 'Cabin', sans-serif;
+  font-size: 17px;
+}
+#postform{
+  margin-left: 25%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

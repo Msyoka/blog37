@@ -1,0 +1,46 @@
+body{
+  background-image: url("people.jpg");
+  background-repeat: repeat;
+}
+#subcribeform{
+  width:500px;
+  position:absolute;
+}
+.panel{
+  margin: auto;
+  margin-bottom: 10px;
+  width:900px;
+  text-align: justify;
+}
+h1{
+font-family: 'Montserrat', sans-serif;
+}
+h4,a{
+  font-family: 'Cabin', sans-serif;
+  font-family: 'Cabin', sans-serif;
+  color:MediumBlue;
+  font-size: 18px;
+}
+p{
+  font-family: 'Cabin', sans-serif;
+  font-size: 17px;
+}
+#commentform{
+  margin-left: 162px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+#commentsection{
+  margin-top: 300px;
+  width:500px;
+  position: absolute;
+  text-align: justify;
+}
+
+#commentheader{
+  margin-top: 180px;
+  width:500px;
+  position: absolute;
+}
